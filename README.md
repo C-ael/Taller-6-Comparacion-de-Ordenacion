@@ -8,14 +8,14 @@
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Metodología de Pruebas](#-metodología-de-pruebas)
 - [Resultados Completos por Dataset](#-resultados-completos-por-dataset)
-    - [Citas – 100 registros (Aleatorio)](#citas--100-registros-aleatorio)
-    - [Citas – 100 registros (Casi Ordenado)](#citas--100-registros-casi-ordenado)
-    - [Pacientes – 500 registros (Duplicados)](#pacientes--500-registros-duplicados)
-    - [Inventario – 500 registros (Inverso)](#inventario--500-registros-inverso)
+  - [Citas – 100 registros (Aleatorio)](#citas--100-registros-aleatorio)
+  - [Citas – 100 registros (Casi Ordenado)](#citas--100-registros-casi-ordenado)
+  - [Pacientes – 500 registros (Duplicados)](#pacientes--500-registros-duplicados)
+  - [Inventario – 500 registros (Inverso)](#inventario--500-registros-inverso)
 - [Matriz de Recomendación](#-matriz-de-recomendación)
 - [Conclusiones](#-conclusiones)
 - [Cómo Ejecutar el Proyecto](#-cómo-ejecutar-el-proyecto)
-- [Buenas Prácticas Implementadas](#-buenas-prácticas-implementadas)
+- [Buenas Prácticas Implementadas](#-️-buenas-prácticas-implementadas)
 
 ---
 
