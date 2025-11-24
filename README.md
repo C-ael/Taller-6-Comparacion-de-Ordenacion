@@ -7,8 +7,8 @@
 - [Descripción General del Proyecto](#descripción-general-del-proyecto)
 - [Requisitos para Ejecutar el Programa](#requisitos-para-ejecutar-el-programa)
   - [Requisitos de Software](#requisitos-de-software)
-  - [Requisitos del Proyecto](#requisitos-del-proyecto)
-  - [Requisitos de Ejecución](#requisitos-de-ejecución)
+  - [Requisitos del Proyecto](#-requisitos-del-proyecto)
+  - [Requisitos de Ejecución](#-requisitos-de-ejecución)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Metodología de Pruebas](#metodología-de-pruebas)
 - [Resultados Completos por Dataset](#resultados-completos-por-dataset)
@@ -19,7 +19,7 @@
 - [Matriz de Recomendación](#matriz-de-recomendación)
 - [Conclusiones](#conclusiones)
 - [Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
-- [Buenas Prácticas Implementadas](#buenas-prácticas-implementadas)
+- [Buenas Prácticas Implementadas](#-buenas-prácticas-implementadas)
 
 ---
 
