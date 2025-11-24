@@ -4,18 +4,18 @@
 
 ---
 #  Tabla de Contenidos
-- [Descripción General del Proyecto](#-descripción-general-del-proyecto)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Metodología de Pruebas](#-metodología-de-pruebas)
-- [Resultados Completos por Dataset](#-resultados-completos-por-dataset)
-  - [Citas – 100 registros (Aleatorio)](#citas--100-registros-aleatorio)
-  - [Citas – 100 registros (Casi Ordenado)](#citas--100-registros-casi-ordenado)
-  - [Pacientes – 500 registros (Duplicados)](#pacientes--500-registros-duplicados)
-  - [Inventario – 500 registros (Inverso)](#inventario--500-registros-inverso)
-- [Matriz de Recomendación](#-matriz-de-recomendación)
-- [Conclusiones](#-conclusiones)
-- [Cómo Ejecutar el Proyecto](#-cómo-ejecutar-el-proyecto)
-- [Buenas Prácticas Implementadas](#-️-buenas-prácticas-implementadas)
+- [Descripción General del Proyecto](#-Descripción-General-del-proyecto)
+- [Estructura del Proyecto](#-Estructura-del-Proyecto)
+- [Metodología de Pruebas](#-Metodología-de-Pruebas)
+- [Resultados Completos por Dataset](#-Resultados-Completos-por-Dataset)
+    - [Citas – 100 registros (Aleatorio)](#citas--100-registros-aleatorio)
+    - [Citas – 100 registros (Casi Ordenado)](#citas--100-registros-casi-ordenado)
+    - [Pacientes – 500 registros (Duplicados)](#pacientes--500-registros-duplicados)
+    - [Inventario – 500 registros (Inverso)](#inventario--500-registros-inverso)
+- [Matriz de Recomendación](#-Matriz-de-Recomendación)
+- [Conclusiones](#-Conclusiones)
+- [Cómo Ejecutar el Proyecto](#-Cómo-Ejecutar-el-Proyecto)
+- [Buenas Prácticas Implementadas](#-Buenas-Prácticas-Implementadas)
 
 ---
 
