@@ -1,0 +1,501 @@
+id;insumo;stock
+ITEM-0001;Guante Nitrilo Talla M;500
+ITEM-0002;Alcohol 70% 1L;499
+ITEM-0003;Gasas 10x10;498
+ITEM-0004;Mascarilla Quirúrgica;497
+ITEM-0005;Jeringa 5ml;496
+ITEM-0006;Catéter 14G;495
+ITEM-0007;Venda Elástica;494
+ITEM-0008;Termómetro Digital;493
+ITEM-0009;Bata Desechable;492
+ITEM-0010;Papel Gasas;491
+ITEM-0011;Alcohol 70% 500ml;490
+ITEM-0012;Tiritas;489
+ITEM-0013;Compresas Estériles;488
+ITEM-0014;Guantes Látex Talla L;487
+ITEM-0015;Gasa Hidrocoloide;486
+ITEM-0016;Silla Ruedas Plegable;485
+ITEM-0017;Bolsa Suero;484
+ITEM-0018;Tubos Ensayo;483
+ITEM-0019;Aguja 21G;482
+ITEM-0020;Solución Salina 0.9%;481
+ITEM-0021;Guante Nitrilo Talla M;480
+ITEM-0022;Alcohol 70% 1L;479
+ITEM-0023;Gasas 10x10;478
+ITEM-0024;Mascarilla Quirúrgica;477
+ITEM-0025;Jeringa 5ml;476
+ITEM-0026;Catéter 14G;475
+ITEM-0027;Venda Elástica;474
+ITEM-0028;Termómetro Digital;473
+ITEM-0029;Bata Desechable;472
+ITEM-0030;Papel Gasas;471
+ITEM-0031;Alcohol 70% 500ml;470
+ITEM-0032;Tiritas;469
+ITEM-0033;Compresas Estériles;468
+ITEM-0034;Guantes Látex Talla L;467
+ITEM-0035;Gasa Hidrocoloide;466
+ITEM-0036;Silla Ruedas Plegable;465
+ITEM-0037;Bolsa Suero;464
+ITEM-0038;Tubos Ensayo;463
+ITEM-0039;Aguja 21G;462
+ITEM-0040;Solución Salina 0.9%;461
+ITEM-0041;Guante Nitrilo Talla M;460
+ITEM-0042;Alcohol 70% 1L;459
+ITEM-0043;Gasas 10x10;458
+ITEM-0044;Mascarilla Quirúrgica;457
+ITEM-0045;Jeringa 5ml;456
+ITEM-0046;Catéter 14G;455
+ITEM-0047;Venda Elástica;454
+ITEM-0048;Termómetro Digital;453
+ITEM-0049;Bata Desechable;452
+ITEM-0050;Papel Gasas;451
+ITEM-0051;Alcohol 70% 500ml;450
+ITEM-0052;Tiritas;449
+ITEM-0053;Compresas Estériles;448
+ITEM-0054;Guantes Látex Talla L;447
+ITEM-0055;Gasa Hidrocoloide;446
+ITEM-0056;Silla Ruedas Plegable;445
+ITEM-0057;Bolsa Suero;444
+ITEM-0058;Tubos Ensayo;443
+ITEM-0059;Aguja 21G;442
+ITEM-0060;Solución Salina 0.9%;441
+ITEM-0061;Guante Nitrilo Talla M;440
+ITEM-0062;Alcohol 70% 1L;439
+ITEM-0063;Gasas 10x10;438
+ITEM-0064;Mascarilla Quirúrgica;437
+ITEM-0065;Jeringa 5ml;436
+ITEM-0066;Catéter 14G;435
+ITEM-0067;Venda Elástica;434
+ITEM-0068;Termómetro Digital;433
+ITEM-0069;Bata Desechable;432
+ITEM-0070;Papel Gasas;431
+ITEM-0071;Alcohol 70% 500ml;430
+ITEM-0072;Tiritas;429
+ITEM-0073;Compresas Estériles;428
+ITEM-0074;Guantes Látex Talla L;427
+ITEM-0075;Gasa Hidrocoloide;426
+ITEM-0076;Silla Ruedas Plegable;425
+ITEM-0077;Bolsa Suero;424
+ITEM-0078;Tubos Ensayo;423
+ITEM-0079;Aguja 21G;422
+ITEM-0080;Solución Salina 0.9%;421
+ITEM-0081;Guante Nitrilo Talla M;420
+ITEM-0082;Alcohol 70% 1L;419
+ITEM-0083;Gasas 10x10;418
+ITEM-0084;Mascarilla Quirúrgica;417
+ITEM-0085;Jeringa 5ml;416
+ITEM-0086;Catéter 14G;415
+ITEM-0087;Venda Elástica;414
+ITEM-0088;Termómetro Digital;413
+ITEM-0089;Bata Desechable;412
+ITEM-0090;Papel Gasas;411
+ITEM-0091;Alcohol 70% 500ml;410
+ITEM-0092;Tiritas;409
+ITEM-0093;Compresas Estériles;408
+ITEM-0094;Guantes Látex Talla L;407
+ITEM-0095;Gasa Hidrocoloide;406
+ITEM-0096;Silla Ruedas Plegable;405
+ITEM-0097;Bolsa Suero;404
+ITEM-0098;Tubos Ensayo;403
+ITEM-0099;Aguja 21G;402
+ITEM-0100;Solución Salina 0.9%;401
+ITEM-0101;Guante Nitrilo Talla M;400
+ITEM-0102;Alcohol 70% 1L;399
+ITEM-0103;Gasas 10x10;398
+ITEM-0104;Mascarilla Quirúrgica;397
+ITEM-0105;Jeringa 5ml;396
+ITEM-0106;Catéter 14G;395
+ITEM-0107;Venda Elástica;394
+ITEM-0108;Termómetro Digital;393
+ITEM-0109;Bata Desechable;392
+ITEM-0110;Papel Gasas;391
+ITEM-0111;Alcohol 70% 500ml;390
+ITEM-0112;Tiritas;389
+ITEM-0113;Compresas Estériles;388
+ITEM-0114;Guantes Látex Talla L;387
+ITEM-0115;Gasa Hidrocoloide;386
+ITEM-0116;Silla Ruedas Plegable;385
+ITEM-0117;Bolsa Suero;384
+ITEM-0118;Tubos Ensayo;383
+ITEM-0119;Aguja 21G;382
+ITEM-0120;Solución Salina 0.9%;381
+ITEM-0121;Guante Nitrilo Talla M;380
+ITEM-0122;Alcohol 70% 1L;379
+ITEM-0123;Gasas 10x10;378
+ITEM-0124;Mascarilla Quirúrgica;377
+ITEM-0125;Jeringa 5ml;376
+ITEM-0126;Catéter 14G;375
+ITEM-0127;Venda Elástica;374
+ITEM-0128;Termómetro Digital;373
+ITEM-0129;Bata Desechable;372
+ITEM-0130;Papel Gasas;371
+ITEM-0131;Alcohol 70% 500ml;370
+ITEM-0132;Tiritas;369
+ITEM-0133;Compresas Estériles;368
+ITEM-0134;Guantes Látex Talla L;367
+ITEM-0135;Gasa Hidrocoloide;366
+ITEM-0136;Silla Ruedas Plegable;365
+ITEM-0137;Bolsa Suero;364
+ITEM-0138;Tubos Ensayo;363
+ITEM-0139;Aguja 21G;362
+ITEM-0140;Solución Salina 0.9%;361
+ITEM-0141;Guante Nitrilo Talla M;360
+ITEM-0142;Alcohol 70% 1L;359
+ITEM-0143;Gasas 10x10;358
+ITEM-0144;Mascarilla Quirúrgica;357
+ITEM-0145;Jeringa 5ml;356
+ITEM-0146;Catéter 14G;355
+ITEM-0147;Venda Elástica;354
+ITEM-0148;Termómetro Digital;353
+ITEM-0149;Bata Desechable;352
+ITEM-0150;Papel Gasas;351
+ITEM-0151;Alcohol 70% 500ml;350
+ITEM-0152;Tiritas;349
+ITEM-0153;Compresas Estériles;348
+ITEM-0154;Guantes Látex Talla L;347
+ITEM-0155;Gasa Hidrocoloide;346
+ITEM-0156;Silla Ruedas Plegable;345
+ITEM-0157;Bolsa Suero;344
+ITEM-0158;Tubos Ensayo;343
+ITEM-0159;Aguja 21G;342
+ITEM-0160;Solución Salina 0.9%;341
+ITEM-0161;Guante Nitrilo Talla M;340
+ITEM-0162;Alcohol 70% 1L;339
+ITEM-0163;Gasas 10x10;338
+ITEM-0164;Mascarilla Quirúrgica;337
+ITEM-0165;Jeringa 5ml;336
+ITEM-0166;Catéter 14G;335
+ITEM-0167;Venda Elástica;334
+ITEM-0168;Termómetro Digital;333
+ITEM-0169;Bata Desechable;332
+ITEM-0170;Papel Gasas;331
+ITEM-0171;Alcohol 70% 500ml;330
+ITEM-0172;Tiritas;329
+ITEM-0173;Compresas Estériles;328
+ITEM-0174;Guantes Látex Talla L;327
+ITEM-0175;Gasa Hidrocoloide;326
+ITEM-0176;Silla Ruedas Plegable;325
+ITEM-0177;Bolsa Suero;324
+ITEM-0178;Tubos Ensayo;323
+ITEM-0179;Aguja 21G;322
+ITEM-0180;Solución Salina 0.9%;321
+ITEM-0181;Guante Nitrilo Talla M;320
+ITEM-0182;Alcohol 70% 1L;319
+ITEM-0183;Gasas 10x10;318
+ITEM-0184;Mascarilla Quirúrgica;317
+ITEM-0185;Jeringa 5ml;316
+ITEM-0186;Catéter 14G;315
+ITEM-0187;Venda Elástica;314
+ITEM-0188;Termómetro Digital;313
+ITEM-0189;Bata Desechable;312
+ITEM-0190;Papel Gasas;311
+ITEM-0191;Alcohol 70% 500ml;310
+ITEM-0192;Tiritas;309
+ITEM-0193;Compresas Estériles;308
+ITEM-0194;Guantes Látex Talla L;307
+ITEM-0195;Gasa Hidrocoloide;306
+ITEM-0196;Silla Ruedas Plegable;305
+ITEM-0197;Bolsa Suero;304
+ITEM-0198;Tubos Ensayo;303
+ITEM-0199;Aguja 21G;302
+ITEM-0200;Solución Salina 0.9%;301
+ITEM-0201;Guante Nitrilo Talla M;300
+ITEM-0202;Alcohol 70% 1L;299
+ITEM-0203;Gasas 10x10;298
+ITEM-0204;Mascarilla Quirúrgica;297
+ITEM-0205;Jeringa 5ml;296
+ITEM-0206;Catéter 14G;295
+ITEM-0207;Venda Elástica;294
+ITEM-0208;Termómetro Digital;293
+ITEM-0209;Bata Desechable;292
+ITEM-0210;Papel Gasas;291
+ITEM-0211;Alcohol 70% 500ml;290
+ITEM-0212;Tiritas;289
+ITEM-0213;Compresas Estériles;288
+ITEM-0214;Guantes Látex Talla L;287
+ITEM-0215;Gasa Hidrocoloide;286
+ITEM-0216;Silla Ruedas Plegable;285
+ITEM-0217;Bolsa Suero;284
+ITEM-0218;Tubos Ensayo;283
+ITEM-0219;Aguja 21G;282
+ITEM-0220;Solución Salina 0.9%;281
+ITEM-0221;Guante Nitrilo Talla M;280
+ITEM-0222;Alcohol 70% 1L;279
+ITEM-0223;Gasas 10x10;278
+ITEM-0224;Mascarilla Quirúrgica;277
+ITEM-0225;Jeringa 5ml;276
+ITEM-0226;Catéter 14G;275
+ITEM-0227;Venda Elástica;274
+ITEM-0228;Termómetro Digital;273
+ITEM-0229;Bata Desechable;272
+ITEM-0230;Papel Gasas;271
+ITEM-0231;Alcohol 70% 500ml;270
+ITEM-0232;Tiritas;269
+ITEM-0233;Compresas Estériles;268
+ITEM-0234;Guantes Látex Talla L;267
+ITEM-0235;Gasa Hidrocoloide;266
+ITEM-0236;Silla Ruedas Plegable;265
+ITEM-0237;Bolsa Suero;264
+ITEM-0238;Tubos Ensayo;263
+ITEM-0239;Aguja 21G;262
+ITEM-0240;Solución Salina 0.9%;261
+ITEM-0241;Guante Nitrilo Talla M;260
+ITEM-0242;Alcohol 70% 1L;259
+ITEM-0243;Gasas 10x10;258
+ITEM-0244;Mascarilla Quirúrgica;257
+ITEM-0245;Jeringa 5ml;256
+ITEM-0246;Catéter 14G;255
+ITEM-0247;Venda Elástica;254
+ITEM-0248;Termómetro Digital;253
+ITEM-0249;Bata Desechable;252
+ITEM-0250;Papel Gasas;251
+ITEM-0251;Alcohol 70% 500ml;250
+ITEM-0252;Tiritas;249
+ITEM-0253;Compresas Estériles;248
+ITEM-0254;Guantes Látex Talla L;247
+ITEM-0255;Gasa Hidrocoloide;246
+ITEM-0256;Silla Ruedas Plegable;245
+ITEM-0257;Bolsa Suero;244
+ITEM-0258;Tubos Ensayo;243
+ITEM-0259;Aguja 21G;242
+ITEM-0260;Solución Salina 0.9%;241
+ITEM-0261;Guante Nitrilo Talla M;240
+ITEM-0262;Alcohol 70% 1L;239
+ITEM-0263;Gasas 10x10;238
+ITEM-0264;Mascarilla Quirúrgica;237
+ITEM-0265;Jeringa 5ml;236
+ITEM-0266;Catéter 14G;235
+ITEM-0267;Venda Elástica;234
+ITEM-0268;Termómetro Digital;233
+ITEM-0269;Bata Desechable;232
+ITEM-0270;Papel Gasas;231
+ITEM-0271;Alcohol 70% 500ml;230
+ITEM-0272;Tiritas;229
+ITEM-0273;Compresas Estériles;228
+ITEM-0274;Guantes Látex Talla L;227
+ITEM-0275;Gasa Hidrocoloide;226
+ITEM-0276;Silla Ruedas Plegable;225
+ITEM-0277;Bolsa Suero;224
+ITEM-0278;Tubos Ensayo;223
+ITEM-0279;Aguja 21G;222
+ITEM-0280;Solución Salina 0.9%;221
+ITEM-0281;Guante Nitrilo Talla M;220
+ITEM-0282;Alcohol 70% 1L;219
+ITEM-0283;Gasas 10x10;218
+ITEM-0284;Mascarilla Quirúrgica;217
+ITEM-0285;Jeringa 5ml;216
+ITEM-0286;Catéter 14G;215
+ITEM-0287;Venda Elástica;214
+ITEM-0288;Termómetro Digital;213
+ITEM-0289;Bata Desechable;212
+ITEM-0290;Papel Gasas;211
+ITEM-0291;Alcohol 70% 500ml;210
+ITEM-0292;Tiritas;209
+ITEM-0293;Compresas Estériles;208
+ITEM-0294;Guantes Látex Talla L;207
+ITEM-0295;Gasa Hidrocoloide;206
+ITEM-0296;Silla Ruedas Plegable;205
+ITEM-0297;Bolsa Suero;204
+ITEM-0298;Tubos Ensayo;203
+ITEM-0299;Aguja 21G;202
+ITEM-0300;Solución Salina 0.9%;201
+ITEM-0301;Guante Nitrilo Talla M;200
+ITEM-0302;Alcohol 70% 1L;199
+ITEM-0303;Gasas 10x10;198
+ITEM-0304;Mascarilla Quirúrgica;197
+ITEM-0305;Jeringa 5ml;196
+ITEM-0306;Catéter 14G;195
+ITEM-0307;Venda Elástica;194
+ITEM-0308;Termómetro Digital;193
+ITEM-0309;Bata Desechable;192
+ITEM-0310;Papel Gasas;191
+ITEM-0311;Alcohol 70% 500ml;190
+ITEM-0312;Tiritas;189
+ITEM-0313;Compresas Estériles;188
+ITEM-0314;Guantes Látex Talla L;187
+ITEM-0315;Gasa Hidrocoloide;186
+ITEM-0316;Silla Ruedas Plegable;185
+ITEM-0317;Bolsa Suero;184
+ITEM-0318;Tubos Ensayo;183
+ITEM-0319;Aguja 21G;182
+ITEM-0320;Solución Salina 0.9%;181
+ITEM-0321;Guante Nitrilo Talla M;180
+ITEM-0322;Alcohol 70% 1L;179
+ITEM-0323;Gasas 10x10;178
+ITEM-0324;Mascarilla Quirúrgica;177
+ITEM-0325;Jeringa 5ml;176
+ITEM-0326;Catéter 14G;175
+ITEM-0327;Venda Elástica;174
+ITEM-0328;Termómetro Digital;173
+ITEM-0329;Bata Desechable;172
+ITEM-0330;Papel Gasas;171
+ITEM-0331;Alcohol 70% 500ml;170
+ITEM-0332;Tiritas;169
+ITEM-0333;Compresas Estériles;168
+ITEM-0334;Guantes Látex Talla L;167
+ITEM-0335;Gasa Hidrocoloide;166
+ITEM-0336;Silla Ruedas Plegable;165
+ITEM-0337;Bolsa Suero;164
+ITEM-0338;Tubos Ensayo;163
+ITEM-0339;Aguja 21G;162
+ITEM-0340;Solución Salina 0.9%;161
+ITEM-0341;Guante Nitrilo Talla M;160
+ITEM-0342;Alcohol 70% 1L;159
+ITEM-0343;Gasas 10x10;158
+ITEM-0344;Mascarilla Quirúrgica;157
+ITEM-0345;Jeringa 5ml;156
+ITEM-0346;Catéter 14G;155
+ITEM-0347;Venda Elástica;154
+ITEM-0348;Termómetro Digital;153
+ITEM-0349;Bata Desechable;152
+ITEM-0350;Papel Gasas;151
+ITEM-0351;Alcohol 70% 500ml;150
+ITEM-0352;Tiritas;149
+ITEM-0353;Compresas Estériles;148
+ITEM-0354;Guantes Látex Talla L;147
+ITEM-0355;Gasa Hidrocoloide;146
+ITEM-0356;Silla Ruedas Plegable;145
+ITEM-0357;Bolsa Suero;144
+ITEM-0358;Tubos Ensayo;143
+ITEM-0359;Aguja 21G;142
+ITEM-0360;Solución Salina 0.9%;141
+ITEM-0361;Guante Nitrilo Talla M;140
+ITEM-0362;Alcohol 70% 1L;139
+ITEM-0363;Gasas 10x10;138
+ITEM-0364;Mascarilla Quirúrgica;137
+ITEM-0365;Jeringa 5ml;136
+ITEM-0366;Catéter 14G;135
+ITEM-0367;Venda Elástica;134
+ITEM-0368;Termómetro Digital;133
+ITEM-0369;Bata Desechable;132
+ITEM-0370;Papel Gasas;131
+ITEM-0371;Alcohol 70% 500ml;130
+ITEM-0372;Tiritas;129
+ITEM-0373;Compresas Estériles;128
+ITEM-0374;Guantes Látex Talla L;127
+ITEM-0375;Gasa Hidrocoloide;126
+ITEM-0376;Silla Ruedas Plegable;125
+ITEM-0377;Bolsa Suero;124
+ITEM-0378;Tubos Ensayo;123
+ITEM-0379;Aguja 21G;122
+ITEM-0380;Solución Salina 0.9%;121
+ITEM-0381;Guante Nitrilo Talla M;120
+ITEM-0382;Alcohol 70% 1L;119
+ITEM-0383;Gasas 10x10;118
+ITEM-0384;Mascarilla Quirúrgica;117
+ITEM-0385;Jeringa 5ml;116
+ITEM-0386;Catéter 14G;115
+ITEM-0387;Venda Elástica;114
+ITEM-0388;Termómetro Digital;113
+ITEM-0389;Bata Desechable;112
+ITEM-0390;Papel Gasas;111
+ITEM-0391;Alcohol 70% 500ml;110
+ITEM-0392;Tiritas;109
+ITEM-0393;Compresas Estériles;108
+ITEM-0394;Guantes Látex Talla L;107
+ITEM-0395;Gasa Hidrocoloide;106
+ITEM-0396;Silla Ruedas Plegable;105
+ITEM-0397;Bolsa Suero;104
+ITEM-0398;Tubos Ensayo;103
+ITEM-0399;Aguja 21G;102
+ITEM-0400;Solución Salina 0.9%;101
+ITEM-0401;Guante Nitrilo Talla M;100
+ITEM-0402;Alcohol 70% 1L;99
+ITEM-0403;Gasas 10x10;98
+ITEM-0404;Mascarilla Quirúrgica;97
+ITEM-0405;Jeringa 5ml;96
+ITEM-0406;Catéter 14G;95
+ITEM-0407;Venda Elástica;94
+ITEM-0408;Termómetro Digital;93
+ITEM-0409;Bata Desechable;92
+ITEM-0410;Papel Gasas;91
+ITEM-0411;Alcohol 70% 500ml;90
+ITEM-0412;Tiritas;89
+ITEM-0413;Compresas Estériles;88
+ITEM-0414;Guantes Látex Talla L;87
+ITEM-0415;Gasa Hidrocoloide;86
+ITEM-0416;Silla Ruedas Plegable;85
+ITEM-0417;Bolsa Suero;84
+ITEM-0418;Tubos Ensayo;83
+ITEM-0419;Aguja 21G;82
+ITEM-0420;Solución Salina 0.9%;81
+ITEM-0421;Guante Nitrilo Talla M;80
+ITEM-0422;Alcohol 70% 1L;79
+ITEM-0423;Gasas 10x10;78
+ITEM-0424;Mascarilla Quirúrgica;77
+ITEM-0425;Jeringa 5ml;76
+ITEM-0426;Catéter 14G;75
+ITEM-0427;Venda Elástica;74
+ITEM-0428;Termómetro Digital;73
+ITEM-0429;Bata Desechable;72
+ITEM-0430;Papel Gasas;71
+ITEM-0431;Alcohol 70% 500ml;70
+ITEM-0432;Tiritas;69
+ITEM-0433;Compresas Estériles;68
+ITEM-0434;Guantes Látex Talla L;67
+ITEM-0435;Gasa Hidrocoloide;66
+ITEM-0436;Silla Ruedas Plegable;65
+ITEM-0437;Bolsa Suero;64
+ITEM-0438;Tubos Ensayo;63
+ITEM-0439;Aguja 21G;62
+ITEM-0440;Solución Salina 0.9%;61
+ITEM-0441;Guante Nitrilo Talla M;60
+ITEM-0442;Alcohol 70% 1L;59
+ITEM-0443;Gasas 10x10;58
+ITEM-0444;Mascarilla Quirúrgica;57
+ITEM-0445;Jeringa 5ml;56
+ITEM-0446;Catéter 14G;55
+ITEM-0447;Venda Elástica;54
+ITEM-0448;Termómetro Digital;53
+ITEM-0449;Bata Desechable;52
+ITEM-0450;Papel Gasas;51
+ITEM-0451;Alcohol 70% 500ml;50
+ITEM-0452;Tiritas;49
+ITEM-0453;Compresas Estériles;48
+ITEM-0454;Guantes Látex Talla L;47
+ITEM-0455;Gasa Hidrocoloide;46
+ITEM-0456;Silla Ruedas Plegable;45
+ITEM-0457;Bolsa Suero;44
+ITEM-0458;Tubos Ensayo;43
+ITEM-0459;Aguja 21G;42
+ITEM-0460;Solución Salina 0.9%;41
+ITEM-0461;Guante Nitrilo Talla M;40
+ITEM-0462;Alcohol 70% 1L;39
+ITEM-0463;Gasas 10x10;38
+ITEM-0464;Mascarilla Quirúrgica;37
+ITEM-0465;Jeringa 5ml;36
+ITEM-0466;Catéter 14G;35
+ITEM-0467;Venda Elástica;34
+ITEM-0468;Termómetro Digital;33
+ITEM-0469;Bata Desechable;32
+ITEM-0470;Papel Gasas;31
+ITEM-0471;Alcohol 70% 500ml;30
+ITEM-0472;Tiritas;29
+ITEM-0473;Compresas Estériles;28
+ITEM-0474;Guantes Látex Talla L;27
+ITEM-0475;Gasa Hidrocoloide;26
+ITEM-0476;Silla Ruedas Plegable;25
+ITEM-0477;Bolsa Suero;24
+ITEM-0478;Tubos Ensayo;23
+ITEM-0479;Aguja 21G;22
+ITEM-0480;Solución Salina 0.9%;21
+ITEM-0481;Guante Nitrilo Talla M;20
+ITEM-0482;Alcohol 70% 1L;19
+ITEM-0483;Gasas 10x10;18
+ITEM-0484;Mascarilla Quirúrgica;17
+ITEM-0485;Jeringa 5ml;16
+ITEM-0486;Catéter 14G;15
+ITEM-0487;Venda Elástica;14
+ITEM-0488;Termómetro Digital;13
+ITEM-0489;Bata Desechable;12
+ITEM-0490;Papel Gasas;11
+ITEM-0491;Alcohol 70% 500ml;10
+ITEM-0492;Tiritas;9
+ITEM-0493;Compresas Estériles;8
+ITEM-0494;Guantes Látex Talla L;7
+ITEM-0495;Gasa Hidrocoloide;6
+ITEM-0496;Silla Ruedas Plegable;5
+ITEM-0497;Bolsa Suero;4
+ITEM-0498;Tubos Ensayo;3
+ITEM-0499;Aguja 21G;2
+ITEM-0500;Solución Salina 0.9%;1
