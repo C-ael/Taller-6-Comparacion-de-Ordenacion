@@ -162,7 +162,7 @@ Se siguió el estándar recomendado:
 src/ed/u2/app/MainRunner.java
 ```
 
-4. Los resultados aparecerán en consola en formato de tabla.
+4. Los resultados aparecerán en consola en formato de tabla y también como archivo .csv al mismo nivel que las carpetas **datasets/** y **src/**.
 
 ---
 
