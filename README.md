@@ -67,7 +67,16 @@ Para garantizar el correcto funcionamiento del proyecto y la ejecución precisa 
 - Se requiere acceso de lectura a la carpeta `datasets/`.
 
 ---
+##  Requisitos de Ejecución
+- Ejecutar el archivo principal:
+```
+src/ed/u2/app/MainRunner.java
+```
+- Mantener la estructura de paquetes `ed.u2.*` sin modificaciones.
 
+- No mover ni renombrar las clases ubicadas en `sorting/`, `datasets/` o `models/`, ya que el flujo de ejecución depende de ellas.
+
+---
 #  Estructura del Proyecto
 
 La estructura del proyecto refleja una separación clara entre lógica de negocio, modelos, utilidades, algoritmos de ordenación y carga de datos:
