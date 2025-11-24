@@ -21,7 +21,7 @@
 
 ##  Descripción General del Proyecto
 
-Este proyecto implementa y compara tres algoritmos clásicos de ordenación en Java —**Bubble Sort (con corte temprano), Selection Sort e Insertion Sort**— aplicados sobre diferentes conjuntos de datos reales simulados: citas médicas, pacientes y productos de inventario.  
+Este proyecto implementa y compara tres algoritmos clásicos de ordenación en Java **Bubble Sort (con corte temprano), Selection Sort e Insertion Sort** aplicados sobre diferentes conjuntos de datos reales simulados: citas médicas, pacientes y productos de inventario.  
 
 El objetivo es **medir, analizar y comparar** su rendimiento según el tamaño del dataset, su nivel de orden previo y la presencia de duplicados, siguiendo criterios rigurosos de instrumentación, como:
 
@@ -87,7 +87,7 @@ Cada dataset se ordenó utilizando los tres algoritmos, midiendo:
 Se siguió el estándar recomendado:
 
 - **R = 10 repeticiones por caso**
-- Se descartan las primeras **3 corridas** por calentamiento del JIT
+- Se descartan las primeras 3 corridas por calentamiento del JIT
 - El tiempo se mide exclusivamente sobre el ordenamiento (sin I/O)
 
 ---
@@ -146,7 +146,7 @@ Se siguió el estándar recomendado:
 #  Conclusiones
 
 - **Insertion Sort** resultó ser el algoritmo más eficiente en la mayoría de casos reales, especialmente en datasets pequeños, aleatorios, casi ordenados o con duplicados.  
-- **Selection Sort** mantiene un número fijo de comparaciones (~n(n−1)/2), pero destaca por su **mínimo número de intercambios**, lo que lo hace útil cuando los swaps son costosos o cuando el dataset está completamente inverso.  
+- **Selection Sort** mantiene un número fijo de comparaciones, pero destaca por su mínimo número de intercambios, lo que lo hace útil cuando los swaps son costosos o cuando el dataset está completamente inverso.  
 - **Bubble Sort**, aun con corte temprano, es el menos eficiente en general. Sin embargo, en casos casi ordenados ofrece una mejora marcada y es útil para análisis educativos.  
 - La instrumentación implementada permitió obtener métricas confiables sin interferencias de entrada/salida, logrando una evaluación realista del comportamiento de cada algoritmo.
 
