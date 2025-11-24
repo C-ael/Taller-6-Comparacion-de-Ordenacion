@@ -4,18 +4,22 @@
 
 ---
 #  Tabla de Contenidos
-- [Descripción General del Proyecto](#-Descripción-General-del-proyecto)
-- [Estructura del Proyecto](#-Estructura-del-Proyecto)
-- [Metodología de Pruebas](#-Metodología-de-Pruebas)
-- [Resultados Completos por Dataset](#-Resultados-Completos-por-Dataset)
-    - [Citas – 100 registros (Aleatorio)](#citas--100-registros-aleatorio)
-    - [Citas – 100 registros (Casi Ordenado)](#citas--100-registros-casi-ordenado)
-    - [Pacientes – 500 registros (Duplicados)](#pacientes--500-registros-duplicados)
-    - [Inventario – 500 registros (Inverso)](#inventario--500-registros-inverso)
-- [Matriz de Recomendación](#-Matriz-de-Recomendación)
-- [Conclusiones](#-Conclusiones)
-- [Cómo Ejecutar el Proyecto](#-Cómo-Ejecutar-el-Proyecto)
-- [Buenas Prácticas Implementadas](#-Buenas-Prácticas-Implementadas)
+- [Descripción General del Proyecto](#-descripción-general-del-proyecto)
+- [Requisitos para Ejecutar el Programa](#-requisitos-para-ejecutar-el-programa)
+  - [Requisitos de Software](#-requisitos-de-software)
+  - [Requisitos del Proyecto](#-requisitos-del-proyecto)
+  - [Requisitos de Ejecución](#-requisitos-de-ejecución)
+- [Estructura del Proyecto](#-estructura-del-proyecto)
+- [Metodología de Pruebas](#-metodología-de-pruebas)
+- [Resultados Completos por Dataset](#-resultados-completos-por-dataset)
+  - [Citas – 100 registros (Aleatorio)](#citas--100-registros-aleatorio)
+  - [Citas – 100 registros (Casi Ordenado)](#citas--100-registros-casi-ordenado)
+  - [Pacientes – 500 registros (Duplicados)](#pacientes--500-registros-duplicados)
+  - [Inventario – 500 registros (Inverso)](#inventario--500-registros-inverso)
+- [Matriz de Recomendación](#-matriz-de-recomendación)
+- [Conclusiones](#-conclusiones)
+- [Cómo Ejecutar el Proyecto](#-cómo-ejecutar-el-proyecto)
+- [Buenas Prácticas Implementadas](#-️-buenas-prácticas-implementadas)
 
 ---
 
@@ -30,6 +34,37 @@ El objetivo es **medir, analizar y comparar** su rendimiento según el tamaño d
 - Medición del tiempo (en nanosegundos)  
 - Repetición de corridas y uso de mediana  
 - Aislamiento del I/O para evitar sesgos  
+
+---
+#  Requisitos para Ejecutar el Programa
+
+Para garantizar el correcto funcionamiento del proyecto y la ejecución precisa de los algoritmos de ordenación implementados, se requiere lo siguiente:
+
+##  Requisitos de Software
+- **Java Development Kit (JDK) 17 o superior**  
+  Necesario para compilar y ejecutar el proyecto.
+
+- **IDE recomendado (uno de los siguientes):**
+    - IntelliJ IDEA Community Edition
+    - Visual Studio Code con extensión *“Extension Pack for Java”*
+
+- **Git (opcional pero recomendable)**  
+  Para clonar repositorios y gestionar versiones.
+
+---
+
+## ️ Requisitos del Proyecto
+- La carpeta **`datasets/`** debe ubicarse al mismo nivel que **`src/`**  
+  Ejemplo:
+```
+  Taller6-EstructurasDatos/
+  ├── datasets/
+  └── src/
+ ```
+
+- Los archivos `.csv` deben mantenerse con sus nombres originales, ya que el programa los carga de forma directa.
+
+- Se requiere acceso de lectura a la carpeta `datasets/`.
 
 ---
 
